@@ -1,2 +1,2 @@
 # Differential equation
-The solution to the equation presented in the file <i>'doc/variatonal_formulation.pdf'</i>, written in R.
+The solution to the equation presented in the file *'doc/variatonal_formulation.pdf'*, written in R.
